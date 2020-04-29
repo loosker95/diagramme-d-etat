@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T05:36:03.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="0N3fYZz4wZ8WtA3UNOnC" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T09:51:50.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="gxFRvZ1XtCFEFJULwr7p" version="12.9.13" type="github">
   <diagram id="wdU0Jbt-SyzVik3_71Qo" name="Page-1">
     <mxGraphModel dx="2702" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,7 +373,7 @@
             <mxPoint x="450" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kiWhcbLOmGJkH6H4itFC-105" value="Elevage de produit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kiWhcbLOmGJkH6H4itFC-105" value="Production" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-335" y="320" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kiWhcbLOmGJkH6H4itFC-106" value="Vente de produit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -525,9 +525,6 @@
             <mxPoint x="-431" y="519.5" as="sourcePoint" />
             <mxPoint x="-381" y="519.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kiWhcbLOmGJkH6H4itFC-153" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="1">
-          <mxGeometry x="-443" y="505" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
